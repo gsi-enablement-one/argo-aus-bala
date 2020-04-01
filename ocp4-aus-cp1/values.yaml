@@ -2,7 +2,7 @@ global:
   ingressSubdomain: gsi-learning-ocp43-clus-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.eu-gb.containers.appdomain.cloud
   tlsSecretName: gsi-learning-ocp43-clus-7ec5d722a0ab3f463fdc90eeb94dbc70-0000
 
-ocp4-aus-cp1-bala:
+ocp4-aus-cp1:
   replicaCount: 2
   
   ingress:
