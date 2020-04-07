@@ -3,7 +3,7 @@ global:
   tlsSecretName: gsi-learning-ocp43-clus-7ec5d722a0ab3f463fdc90eeb94dbc70-0000
 
 ocp4-aus-cp1:
-  replicaCount: 6
+  replicaCount: 10
   
   ingress:
     enabled: true
